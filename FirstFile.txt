@@ -1,3 +1,5 @@
 Test file for Diff in stage area
 
 File changed to new NewBranch
+
+Master branch for rebase test
