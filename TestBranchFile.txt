@@ -1,3 +1,5 @@
 Test file for the new branch
 
 Master branch for rebase 2 commit test
+
+Added new line in master branch for rebase test
