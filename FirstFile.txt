@@ -7,3 +7,5 @@ Master branch for rebase test
 added new line to master for rebase test
 
 test edit
+
+adding new line to master
