@@ -1,3 +1,7 @@
 Test file for submit
 
-File changed to new NewBranch
+File changed to new NewBranch2
+
+Change 1
+Change 2
+Change 3
